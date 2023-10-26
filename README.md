@@ -1,2 +1,2 @@
-# golang_projects
-Repository dedicated to golang learning
+# Golang Projects
+Repository dedicated to Golang learning.
